@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website.
 
-🌐 **Portfolio:** https://dileeshalakshan12.github.io/my_portfolio/
+🌐 **Portfolio:** https://dileeshalakshan12.github.io/portfolio/
 
 I am a **Statistics undergraduate at the University of Kelaniya, Sri Lanka**, with a strong interest in **Data Science, Data Analytics, Statistical Modeling, Machine Learning, Business Analytics, and Data Visualization**.
 
